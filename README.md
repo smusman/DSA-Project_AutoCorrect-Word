@@ -3,7 +3,7 @@
 This is my 4th Semester Project for the Course Data Structures and Algorithms. 
 
 ## Description
-Auto-Correct / Auto-Complete Program is the most widely used feature right. Whether it is your smartphones, or any word processing software, it has nowadays become a must to include this feature. This project is about to write a program that creates this feature and uses the most suitable and efficient Data structure to make is possible.
+Coded in C++, this project is an implementation of the widely used feature Auto-Correct / Auto-Complete Word. The project uses file words.txt to read out the english words and upon wrong word input from the user gives the nearest correct word. 
 
 ## Sample Working
 ### (Auto-Correct)
