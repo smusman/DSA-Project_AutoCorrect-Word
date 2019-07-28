@@ -8,8 +8,10 @@ Auto-Correct / Auto-Complete Program is the most widely used feature right. Whet
 ## Sample Working
 ### (Auto-Correct)
 Word entered: teh
+
 Output:  Did you mean ‘the’?
 
 ### (Auto-Complete)
 Word entered: hel
+
 Output: Did you mean ‘hell’ or ‘hello’?
